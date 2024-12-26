@@ -125,7 +125,7 @@ const CheckoutForm = () => {
             <h1 className="text-[24px] md:text-[30px] font-bold text-left mb-6 text-black">
               Complete registration payment
             </h1>
-            <form className="space-y-4" onSubmit={handleSubmit}>
+            <form className="space-y-3" onSubmit={handleSubmit}>
               {/* Personal Details */}
               <h3 className="text-lg md:text-xl font-semibold text-black tracking-wide">
                 Personal Details
